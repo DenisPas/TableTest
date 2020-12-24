@@ -1,0 +1,274 @@
+{
+	"data": [
+		{
+			"id": 5,
+			"title": "Русский язык",
+			"color": "#59f47c",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 6,
+			"title": "Военная история",
+			"color": "#f26744",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 1,
+			"title": "Иностранный язык (начальный уровень)",
+			"color": "#777df9",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 7,
+			"title": "Иностранный язык (функциональный уровень)",
+			"color": "#AAADFA",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 8,
+			"title": "Иностранный язык (оперативный уровень)",
+			"color": "#DDDDFD",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 9,
+			"title": "Архитектура и архитектурный дизайн",
+			"color": "#926363",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 10,
+			"title": "Архитектура",
+			"color": "#578567",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 11,
+			"title": "Промышленный дизайн (проектирование продукта)",
+			"color": "#c35050",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 12,
+			"title": "Футуродизайн",
+			"color": "#ec79de",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 13,
+			"title": "Дизайн интерфейса пользователя",
+			"color": "#20395a",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 14,
+			"title": "Визуальная коммуникация",
+			"color": "#0000dc",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 15,
+			"title": "Графический дизайн",
+			"color": "#0c0303",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 16,
+			"title": "Дизайн интерьера (архитектура интерьера)",
+			"color": "#6e0000",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 17,
+			"title": "Изобразительное искусство",
+			"color": "#78dc00",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 18,
+			"title": "Каллиграфия",
+			"color": "#4c3c38",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 19,
+			"title": "Креативные искусства",
+			"color": "#ae478d",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 20,
+			"title": "Фотография",
+			"color": "#645e5e",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 21,
+			"title": "Скульптура",
+			"color": "#8f3aa6",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 22,
+			"title": "Сохранение предметов искусства",
+			"color": "#9cc4a3",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 24,
+			"title": "Ранняя музыка",
+			"color": "#805252",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 25,
+			"title": "Камерная музыка",
+			"color": "#c478bb",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 26,
+			"title": "Администрирование в сфере искусств (специализация в музыкальных искусствах)",
+			"color": "#d3be31",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 27,
+			"title": "Дирижирование оркестром",
+			"color": "#976393",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 28,
+			"title": "Джазовые течения и новые медиа",
+			"color": "#16003c",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 29,
+			"title": "Музыкальное образование",
+			"color": "#1fc3e0",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 30,
+			"title": "Преподавание теории музыки",
+			"color": "#414768",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		},
+		{
+			"id": 31,
+			"title": "Музыковедение",
+			"color": "#4e3960",
+			"parent": null,
+			"skillCategorys": [],
+			"skills": null,
+			"icon": null,
+			"skillCategories": null
+		}
+	]
+}
